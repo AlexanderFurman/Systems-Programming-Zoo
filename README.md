@@ -7,3 +7,6 @@ It uses various software design patterns such as Factory, Observer, and Singleto
 - The animal factories are used to create objects of these animal classes.
 - The observer pattern is used to keep track of changes in the state of the animals and to notify interested parties, such as zookeepers, of these changes. 
 - The singleton pattern is used to ensure that only one instance of the zoo management system exists.
+
+## Usage
+TODO
